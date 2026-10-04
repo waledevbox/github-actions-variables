@@ -1,2 +1,2 @@
 # Variables
-# add repo env secret
+# add repo env secrets
